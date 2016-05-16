@@ -1,0 +1,287 @@
+{
+  "push": {
+    "changes": [
+      {
+        "forced": false,
+        "old": {
+          "links": {
+            "commits": {
+              "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commits/master"
+            },
+            "self": {
+              "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/refs/branches/master"
+            },
+            "html": {
+              "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/branch/master"
+            }
+          },
+          "type": "branch",
+          "name": "master",
+          "repository": {
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy"
+              },
+              "html": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy"
+              },
+              "avatar": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/avatar/32/"
+              }
+            },
+            "type": "repository",
+            "name": "only-for-testing-auto-deploy",
+            "full_name": "m_lyashkov/only-for-testing-auto-deploy",
+            "uuid": "{35a808af-21ab-462c-9580-b78e7ae76bcf}"
+          },
+          "target": {
+            "hash": "e1633699415c0abab882f6fd326af0e419a07de6",
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/e1633699415c0abab882f6fd326af0e419a07de6"
+              },
+              "html": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/e1633699415c0abab882f6fd326af0e419a07de6"
+              }
+            },
+            "author": {
+              "raw": "Mikhail Lyashkov <m.lyashkov@targetix.net>",
+              "user": {
+                "username": "m_lyashkov",
+                "display_name": "Михаил Ляшков",
+                "type": "user",
+                "uuid": "{58ffc56e-2b0c-41b7-80cd-e8a217a75b22}",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/users/m_lyashkov"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/"
+                  },
+                  "avatar": {
+                    "href": "https://bitbucket.org/account/m_lyashkov/avatar/32/"
+                  }
+                }
+              }
+            },
+            "parents": [
+              {
+                "hash": "30412843aa47bcff22d470104d702dc57c6fa8e2",
+                "type": "commit",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/30412843aa47bcff22d470104d702dc57c6fa8e2"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/30412843aa47bcff22d470104d702dc57c6fa8e2"
+                  }
+                }
+              }
+            ],
+            "date": "2016-05-10T14:27:31+00:00",
+            "message": "Несущественный коммит\n",
+            "type": "commit"
+          }
+        },
+        "links": {
+          "commits": {
+            "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commits?include=88569b86be449b5c48099dcd9588798d634c0dc7&exclude=e1633699415c0abab882f6fd326af0e419a07de6"
+          },
+          "html": {
+            "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/branches/compare/88569b86be449b5c48099dcd9588798d634c0dc7..e1633699415c0abab882f6fd326af0e419a07de6"
+          },
+          "diff": {
+            "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/diff/88569b86be449b5c48099dcd9588798d634c0dc7..e1633699415c0abab882f6fd326af0e419a07de6"
+          }
+        },
+        "truncated": false,
+        "commits": [
+          {
+            "hash": "88569b86be449b5c48099dcd9588798d634c0dc7",
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/88569b86be449b5c48099dcd9588798d634c0dc7"
+              },
+              "html": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/88569b86be449b5c48099dcd9588798d634c0dc7"
+              }
+            },
+            "author": {
+              "raw": "Mikhail Lyashkov <m.lyashkov@targetix.net>",
+              "user": {
+                "username": "m_lyashkov",
+                "display_name": "Михаил Ляшков",
+                "type": "user",
+                "uuid": "{58ffc56e-2b0c-41b7-80cd-e8a217a75b22}",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/users/m_lyashkov"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/"
+                  },
+                  "avatar": {
+                    "href": "https://bitbucket.org/account/m_lyashkov/avatar/32/"
+                  }
+                }
+              }
+            },
+            "parents": [
+              {
+                "hash": "e1633699415c0abab882f6fd326af0e419a07de6",
+                "type": "commit",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/e1633699415c0abab882f6fd326af0e419a07de6"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/e1633699415c0abab882f6fd326af0e419a07de6"
+                  }
+                }
+              }
+            ],
+            "date": "2016-05-11T13:54:52+00:00",
+            "message": "очередной коммит\n",
+            "type": "commit"
+          }
+        ],
+        "created": false,
+        "closed": false,
+        "new": {
+          "links": {
+            "commits": {
+              "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commits/master"
+            },
+            "self": {
+              "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/refs/branches/master"
+            },
+            "html": {
+              "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/branch/master"
+            }
+          },
+          "type": "branch",
+          "name": "master",
+          "repository": {
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy"
+              },
+              "html": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy"
+              },
+              "avatar": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/avatar/32/"
+              }
+            },
+            "type": "repository",
+            "name": "only-for-testing-auto-deploy",
+            "full_name": "m_lyashkov/only-for-testing-auto-deploy",
+            "uuid": "{35a808af-21ab-462c-9580-b78e7ae76bcf}"
+          },
+          "target": {
+            "hash": "88569b86be449b5c48099dcd9588798d634c0dc7",
+            "links": {
+              "self": {
+                "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/88569b86be449b5c48099dcd9588798d634c0dc7"
+              },
+              "html": {
+                "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/88569b86be449b5c48099dcd9588798d634c0dc7"
+              }
+            },
+            "author": {
+              "raw": "Mikhail Lyashkov <m.lyashkov@targetix.net>",
+              "user": {
+                "username": "m_lyashkov",
+                "display_name": "Михаил Ляшков",
+                "type": "user",
+                "uuid": "{58ffc56e-2b0c-41b7-80cd-e8a217a75b22}",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/users/m_lyashkov"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/"
+                  },
+                  "avatar": {
+                    "href": "https://bitbucket.org/account/m_lyashkov/avatar/32/"
+                  }
+                }
+              }
+            },
+            "parents": [
+              {
+                "hash": "e1633699415c0abab882f6fd326af0e419a07de6",
+                "type": "commit",
+                "links": {
+                  "self": {
+                    "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy/commit/e1633699415c0abab882f6fd326af0e419a07de6"
+                  },
+                  "html": {
+                    "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/commits/e1633699415c0abab882f6fd326af0e419a07de6"
+                  }
+                }
+              }
+            ],
+            "date": "2016-05-11T13:54:52+00:00",
+            "message": "очередной коммит\n",
+            "type": "commit"
+          }
+        }
+      }
+    ]
+  },
+  "actor": {
+    "username": "m_lyashkov",
+    "display_name": "Михаил Ляшков",
+    "type": "user",
+    "uuid": "{58ffc56e-2b0c-41b7-80cd-e8a217a75b22}",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/users/m_lyashkov"
+      },
+      "html": {
+        "href": "https://bitbucket.org/m_lyashkov/"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/account/m_lyashkov/avatar/32/"
+      }
+    }
+  },
+  "repository": {
+    "scm": "git",
+    "website": "",
+    "name": "only-for-testing-auto-deploy",
+    "links": {
+      "self": {
+        "href": "https://api.bitbucket.org/2.0/repositories/m_lyashkov/only-for-testing-auto-deploy"
+      },
+      "html": {
+        "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy"
+      },
+      "avatar": {
+        "href": "https://bitbucket.org/m_lyashkov/only-for-testing-auto-deploy/avatar/32/"
+      }
+    },
+    "full_name": "m_lyashkov/only-for-testing-auto-deploy",
+    "owner": {
+      "username": "m_lyashkov",
+      "display_name": "Михаил Ляшков",
+      "type": "user",
+      "uuid": "{58ffc56e-2b0c-41b7-80cd-e8a217a75b22}",
+      "links": {
+        "self": {
+          "href": "https://api.bitbucket.org/2.0/users/m_lyashkov"
+        },
+        "html": {
+          "href": "https://bitbucket.org/m_lyashkov/"
+        },
+        "avatar": {
+          "href": "https://bitbucket.org/account/m_lyashkov/avatar/32/"
+        }
+      }
+    },
+    "type": "repository",
+    "is_private": true,
+    "uuid": "{35a808af-21ab-462c-9580-b78e7ae76bcf}"
+  }
+}

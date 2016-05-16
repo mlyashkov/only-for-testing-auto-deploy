@@ -1,0 +1,10 @@
+{
+	"port": 8001,
+	"repositories":
+	[{
+		"url": "git@bitbucket.org:/m_lyashkov/only-for-testing-auto-deploy.git",
+		"path": "C:/Users/m.lyashkov/Documents/only-for-testing-auto-deploy",
+		"branch": "master",
+		"deploy": "echo deploying"
+	}]
+}
